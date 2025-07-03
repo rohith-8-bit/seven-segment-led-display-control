@@ -5,3 +5,5 @@ use cases :
 Digital counters,
 Hexadecimal display systems,
 Embedded systems with 7-segment interfaces.
+
+this code can be modified to work with a clock but it didn't seem necessary to me.
